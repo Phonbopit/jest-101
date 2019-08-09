@@ -1,0 +1,27 @@
+{
+  "name": "jest-101",
+  "version": "1.0.0",
+  "description": "Getting started with testing and jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier --write **.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phonbopit/jest-101.git"
+  },
+  "keywords": [
+    "Jest",
+    "Test"
+  ],
+  "author": "Chai Phonbopit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phonbopit/jest-101/issues"
+  },
+  "homepage": "https://github.com/Phonbopit/jest-101#readme",
+  "devDependencies": {
+    "jest": "24.8.0"
+  }
+}
